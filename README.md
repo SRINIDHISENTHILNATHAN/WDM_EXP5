@@ -114,8 +114,12 @@ if __name__ == "__main__":
 ```
 ### Output:
 ![image](https://github.com/user-attachments/assets/1594107e-9429-4038-bc62-5fc37fec5e58)
-
-![Uploading image.png…]()
+# AND
+![image](https://github.com/user-attachments/assets/2118c95e-ea09-4f9c-b05b-c50855ea11ec)
+# OR 
+![image](https://github.com/user-attachments/assets/12e4c49e-c519-4ac0-816f-9eeae6b15e43)
+# NOT
+![image](https://github.com/user-attachments/assets/938edeb0-a59d-4539-a508-b9171b08b1f6)
 
 
 ### Result:
